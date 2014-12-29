@@ -6103,3 +6103,49 @@ z-index: 50;
 position: absolute;
 top: 40px;
 }
+/* Four footer blocks **/
+.l-footer-columns .large-3 {
+width: 24.8%;
+margin: 0 0.1%;
+}
+.l-footer-columns h2.block-title {
+width: 100%;
+float: left;
+border-bottom: 5px solid #49afe3;
+font-size: 24px;
+color: #0f1040;
+font-family: "calibrilight", Arial, Helvetica, sans-serif;
+text-transform: uppercase;
+padding: 10px 0 0 6px;
+margin-bottom: 20px;
+}
+.view-latest-news article {
+width: 100%;
+float: left;
+padding: 0 15px 10px 0;
+}
+.view-latest-news article figure {
+width: 35%;
+float: left;
+}
+.view-latest-news article figure img {
+width: 100%;
+height: auto;
+}
+.view-latest-news article aside {
+width: 62%;
+float: right;
+}
+.view-latest-news article aside a {
+outline: 0;
+font-family: calibriregular;
+font-weight: normal;
+font-style: normal;
+font-size: 18px;
+line-height: 22px;
+}
+.view-latest-news article aside p {
+font-family: calibriregular;
+font-size: 18px;
+line-height: 22px;
+}
